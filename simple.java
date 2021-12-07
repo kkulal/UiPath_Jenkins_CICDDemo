@@ -1,4 +1,4 @@
-class simple{
-  public static void main (String arg{}){
+class simple[
+  public static void main (String arg{})]
   System.out.println(Hello world);
 
